@@ -222,32 +222,128 @@ section h3 {
 
 .foma1 {
     grid-area: foma1;
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+    transition: all 1s;
+}
+.foma1:focus{
+    font-size: 20px;
+    color: green;
+    text-align: center;
+}
+.foma1::placeholder{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 .foma2 {
     grid-area: foma2;
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+    transition: all 1s;
+}
+.foma2:focus{
+    font-size: 20px;
+    color: green;
+    text-align: center;
+}
+.foma2::placeholder{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 .foma3 {
     grid-area: foma3;
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+    transition: all 1s;
+}
+.foma3:focus{
+    font-size: 20px;
+    color: green;
+    text-align: center;
+}
+.foma3::placeholder{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 .foma4 {
     grid-area: foma4;
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+    transition: all 1s;
+}
+.foma4:focus{
+    font-size: 20px;
+    color: green;
+    text-align: center;
+}
+.foma4::placeholder{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 .foma5 {
     grid-area: foma5;
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+    transition: all 1s;
+}
+.foma5:focus{
+    font-size: 20px;
+    color: green;
+    text-align: center;
+}
+.foma5::placeholder{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 .foma6 {
     grid-area: foma6;
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+    transition: all 1s;
+}
+.foma6:focus{
+    font-size: 20px;
+    color: green;
+    text-align: center;
+}
+.foma6::placeholder{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 .foma7 {
     grid-area: foma7;
+    color: red;
+    text-align: center;
+    transition: all 1s;
 }
-
+.foma7:focus{
+    font-size: 18px;
+    color: green;
+    text-align: center;
+}
+.foma7::placeholder{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+}
 .foma8 {
     grid-area: foma8;
 }
